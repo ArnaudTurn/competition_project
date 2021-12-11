@@ -1,0 +1,87 @@
+,variables,importance_variables
+0,child_situation,301
+1,district,11226
+2,number_of_underage,791
+3,individual_id_count,364
+4,age_mean,3378
+5,age_max,2500
+6,age_min,2234
+7,creation_date_mean,1643
+8,creation_date_max,429
+9,creation_date_min,224
+10,role1__child,198
+11,role1__family member,46
+12,role1__husband_spouse,199
+13,role1__isolated parent,137
+14,role1__isolated person,246
+15,role1__nan,730
+16,role1__other,15
+17,role1__partner,217
+18,role2__child_underage with family,336
+19,role2__family member,160
+20,role2__husband_spouse,179
+21,role2__isolated adult,394
+22,role2__isolated parent,222
+23,role2__isolated underage_child,95
+24,role2__nan,0
+25,role2__other,220
+26,role2__partner,268
+27,marital_st_civil partner,42
+28,marital_st_cohabitation,215
+29,marital_st_divorced,76
+30,marital_st_marital relationship,116
+31,marital_st_married,292
+32,marital_st_nan,765
+33,marital_st_separated,119
+34,marital_st_single person,678
+35,marital_st_widowed,30
+36,pregnancy_f,398
+37,pregnancy_nan,0
+38,pregnancy_t,127
+39,animal_presence_f,55
+40,animal_presence_t,4
+41,child_to_come_f,433
+42,child_to_come_t,83
+43,group_composition_label_accompanied child_underage,4
+44,group_composition_label_child_underage with family,59
+45,group_composition_label_couple with child_ren_,60
+46,group_composition_label_couple without whildren,159
+47,group_composition_label_group of adults,36
+48,group_composition_label_group with child_ren_,107
+49,group_composition_label_isolated child_underage,50
+50,group_composition_label_man alone,493
+51,group_composition_label_single father with child_ren_,24
+52,group_composition_label_single mother with child_ren_,77
+53,group_composition_label_woman alone,397
+54,group_composition_label_women victim of violence,6
+55,group_type_group,41
+56,group_type_individual,5
+57,housing_situation_label_accomodation by a third party,236
+58,housing_situation_label_detoxification center,1
+59,housing_situation_label_emergency structure,655
+60,housing_situation_label_hotel paid by an association,79
+61,housing_situation_label_hotel paid by the emergency centre,749
+62,housing_situation_label_hotel paid by the household,103
+63,housing_situation_label_hotel paid by the regional administration,175
+64,housing_situation_label_inclusion structure,98
+65,housing_situation_label_mobile or makeshift shelter,78
+66,housing_situation_label_other,297
+67,housing_situation_label_parental home,60
+68,housing_situation_label_personal or marital home,122
+69,housing_situation_label_police station,23
+70,housing_situation_label_prison,58
+71,housing_situation_label_psychiatric hospital,27
+72,housing_situation_label_public hospital,118
+73,housing_situation_label_refused to answer,87
+74,housing_situation_label_religious place _church_ mosque_ synogogue_,37
+75,housing_situation_label_shelters,197
+76,housing_situation_label_stabilisation structure,87
+77,housing_situation_label_street,522
+78,victim_of_violence_f,245
+79,victim_of_violence_t,1
+80,victim_of_violence_type_child,0
+81,victim_of_violence_type_family,44
+82,victim_of_violence_type_man,25
+83,victim_of_violence_type_man victim of domestic violence,0
+84,victim_of_violence_type_woman,87
+85,victim_of_violence_type_woman victim of domestic violence,86
