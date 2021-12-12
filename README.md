@@ -40,6 +40,10 @@ score = 0.57
 
 The success lies in attributing weight during the learning process respectively 1, 10, 100, 1000 to each class. In fact it allocates much weight to small classes and little weight to major class.
 
+## Project pipelines
+The project is orchestrated using .yaml file called 'config_paths', there are other way to orchestrate the project using shell files which will be uploaded based on the wrappers.py file.
+
+<img align="left" alt="Google Cloud Platform logo" width="50px" src="https://lh4.googleusercontent.com/nT4TgE8s5K7d-sGmBKJEWtCJEgXIZQ49TLVIyG6_t0RG7PoNe5k8erAKys7tNnoT_qA9_9GHYXkNyw=w1920-h965-rw" />
 
 
 
