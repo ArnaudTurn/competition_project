@@ -5,16 +5,20 @@
 ```
 ├── data-science-test                        <- All data and documentations regarding the project
 ├── data_science_test_AT                     <- Ingestion, Preparation, Modeling, Exposition folder with all necessary methods
-│   ├── loader.py                            <- Contains all the methods used to load the data 
-│   ├── preprocess.py                        <- Contains all the methods used to load the data 
-│   ├── train.py                             <- Contains all the methods used to train the model
-│   ├── predict.py                           <- Contains all the methods used to call the model
-│   ├── utils_.py                            <- Contains all the methods used to save 'static' methods
-│   ├── wrappers.py                          <- Contains all the functions wrappers in case of shell files usage (to be updated)
-│   └── prepare.py                           <- Contains methods for specific preparation process (not used yet)
-├── output                                   <- Folder contains all results
-├── setup.py
-└── main.py
+│   ├── loader.py                               <- Contains all the methods used to load the data 
+│   ├── preprocess.py                           <- Contains all the methods used to preprocess the data 
+│   ├── train.py                                <- Contains all the methods used to train the model
+│   ├── predict.py                              <- Contains all the methods used to call the model
+│   ├── utils_.py                               <- Contains all the methods used to save 'static' methods
+│   ├── wrappers.py                             <- Contains all the functions wrappers in case of shell files usage (to be updated)
+│   ├── prepare.py                              <- Contains methods for specific preparation process (to be added)
+│   └── api.py                                  <- Contains methods to call api (to be added)
+├── output                                  <- Folder contains all results
+├── setup.py                                <- Setup file to build python package '''python -m pip install -e .'''
+├── main.py                                 <- Main file to 
+├── config_paths.yaml                       <- Configuration file used to setup each step : preprocessintg data, training model, calling model, 
+├── README.md                               <- README
+└── LICENSE
 ```
 
 
