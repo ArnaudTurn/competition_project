@@ -7,7 +7,7 @@ setuptools.setup(
     name="data_pipes_mat",
     version="0.0.1",
     author="Arnaud tauveron",
-    author_email="atauveron.pro@gmail.com",
+    author_email="https://www.linkedin.com/in/arnaud-tauveron/",
     description="A small example package with all practices",
     long_description=long_description,
     long_description_content_type="text/markdown",
