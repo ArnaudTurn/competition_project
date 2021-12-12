@@ -2,7 +2,7 @@
 
 
 ## Package configuration
-
+```
 ├── data-science-test                        <- All data and documentations regarding the project
 ├── data_science_test_AT                     <- Ingestion, Preparation, Modeling, Exposition folder with all necessary methods
 │   ├── loader.py                            <- Contains all the methods used to load the data 
@@ -15,6 +15,7 @@
 ├── output                                   <- Folder contains all results
 ├── setup.py
 └── main.py
+```
 
 
 ## Project goal
