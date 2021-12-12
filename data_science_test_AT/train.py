@@ -9,7 +9,7 @@ import argparse
 
 
 def build_train_test_by_modality(
-    train_df, test_df: pd.DataFrame, target_var: str, common_var: str, index_i: int = 0
+    train_df: pd.DataFrame, test_df: pd.DataFrame, target_var: str, common_var: str, index_i: int = 0
 ) -> set:
     common_var_list = list(set(train_df.columns) & set(test_df.columns))
     var = [i for i in common_var_list if (target_var not in i) & (common_var not in i)]
