@@ -37,6 +37,7 @@ The score for a random prediction is shown at the end of this notebook (~1.6), y
 ## Project Results 
 
 score = 0.57
+
 The success lies in attributing weight during the learning process respectively 1, 10, 100, 1000 to each class. In fact it allocates much weight to small classes and little weight to major class.
 
 
