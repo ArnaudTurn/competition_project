@@ -1,3 +1,18 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+###############################################################################
+#                                                                             #
+# wrappers methods                                                            #
+# Developed using Python 3.7.4                                                #
+#                                                                             #
+# Author: Arnaud Tauveron                                                     #
+# Linkedin: https://www.linkedin.com/in/arnaud-tauveron/                      #
+# Date: 2021-12-12                                                            #
+# Version: 1.0.1                                                              #
+#                                                                             #
+###############################################################################
+
+
 from preprocess import preprocess_pipes_from_files
 from train import train_test_pipes_from_files
 from predict import call_model_from_files

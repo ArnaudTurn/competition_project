@@ -3,7 +3,7 @@
 ###############################################################################
 #                                                                             #
 # Prepare class                                                               #
-# Developed using Python 3.8.                                                 #
+# Developed using Python 3.7.4                                                #
 #                                                                             #
 # Author: Arnaud Tauveron                                                     #
 # Linkedin: https://www.linkedin.com/in/arnaud-tauveron/                      #

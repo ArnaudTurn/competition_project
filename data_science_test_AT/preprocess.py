@@ -1,3 +1,17 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+###############################################################################
+#                                                                             #
+# preprocess methods                                                          #
+# Developed using Python 3.7.4                                                #
+#                                                                             #
+# Author: Arnaud Tauveron                                                     #
+# Linkedin: https://www.linkedin.com/in/arnaud-tauveron/                      #
+# Date: 2021-12-12                                                            #
+# Version: 1.0.1                                                              #
+#                                                                             #
+###############################################################################
+
 import pandas as pd
 import numpy as np
 import argparse
