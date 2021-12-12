@@ -1,5 +1,5 @@
 ## Python Package for challenge ##
-This package has been designed in a course of 3 days and open the door to many improvements. 
+This package has been designed in a course of 3 days and opens the door to many improvements. 
 Feel free to contact me if you see any.
 
 ## Package configuration
