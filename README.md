@@ -43,7 +43,7 @@ The success lies in attributing weight during the learning process respectively 
 ## Project pipelines
 The project is orchestrated using .yaml file called 'config_paths', there are other way to orchestrate the project using shell files which will be uploaded based on the wrappers.py file.
 
-<img align="left" alt="Google Cloud Platform logo" width="50px" src="https://lh4.googleusercontent.com/nT4TgE8s5K7d-sGmBKJEWtCJEgXIZQ49TLVIyG6_t0RG7PoNe5k8erAKys7tNnoT_qA9_9GHYXkNyw=w1920-h965-rw" />
+<img align="left" alt="Project pipeline" src="https://camo.githubusercontent.com/1347ad4c15c8a1cb31741627a0bf283fdce8f26847f768d6718ca166922e1621/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f6e54345467453873354b37642d73476d424b4a455774434a456758495a513439544c56497947365f7430524737506f4e65356b386572414b797337744e6e6f545f7141395f39474859586b4e79773d77313932302d683936352d7277" />
 
 
 
