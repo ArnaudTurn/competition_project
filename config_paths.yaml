@@ -1,3 +1,4 @@
+## Generic configuration for the main.py
 config_general: #Configure the whole pipeline with yes or null
   build_preprocess: null
   build_preprocess_test: null
@@ -5,6 +6,7 @@ config_general: #Configure the whole pipeline with yes or null
   build_predict: null
   build_kpis: yes
 
+## 1 - Dictionnary for the preprocess step
 config_preprocess: #Configure the data preprocess (for all tables)
   input_data_request: competition_project\data-science-test\data\requests_train.csv
   input_data_individuals: competition_project\data-science-test\data\individuals_train.csv
@@ -21,16 +23,19 @@ config_preprocess_test: #Configure the data process (for test tables)
   output_path: competition_project\output
   tablename: test_df_
 
+## 2 - Dictionnary for the train step
 config_train: #Configure the model learning
   input_data: competition_project\output\train_df_20211210_202555.csv
   input_test_data: null
   output_directory: competition_project\output
 
+## 3 - Dictionnary for the predict step
 config_predict: #Configure the model use
   input_model: competition_project\output\model_20211210_204530\model_lgbm.pkl
   input_data: competition_project\output\test_df_20211210_202603.csv
   output_directory: competition_project\output
 
+## 4 - Dictionnary for the KPIS step
 config_kpis: #Configure the KPIs process 
   input_data_pred: competition_project\output\prediction_20211210_204721.csv
   input_data_assess: competition_project\output\test_df_20211210_202603.csv

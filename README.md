@@ -44,7 +44,7 @@ The success lies in attributing weight during the learning process respectively 
 ## Project pipelines
 The project is orchestrated using .yaml file 'config_paths.yaml', there are other way to orchestrate the project using shell files which will be uploaded based on the wrappers.py file and leveraging on argparse python library.
 
-<img align="left" alt="Project pipeline" src="https://camo.githubusercontent.com/1347ad4c15c8a1cb31741627a0bf283fdce8f26847f768d6718ca166922e1621/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f6e54345467453873354b37642d73476d424b4a455774434a456758495a513439544c56497947365f7430524737506f4e65356b386572414b797337744e6e6f545f7141395f39474859586b4e79773d77313932302d683936352d7277" />
+![Project pipeline](./docs/data_science_pipes.png)
 
 The goal is to propose 3 approaches weither we do have the test dataset or not.
 The first one is basically in the case we have the train, test dataset and want to run the full pipeline. 
