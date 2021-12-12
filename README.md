@@ -21,7 +21,7 @@ Feel free to contact me if you see any.
 ├── README.md                               <- README
 └── LICENSE
 ```
-While the structure could be reused for other competition and projects, this is not aimed to be a generic project. This is the main reason of not using oriented object programming.
+While the structure could be reused for other competitions and projects, this is not aimed to be a generic project. This is the main reason of not using oriented object programming.
 However I might upload in the SKELETON project a reusable framework for data science project and deployement.
 
 ## Project goal
@@ -46,7 +46,7 @@ The project is orchestrated using .yaml file 'config_paths.yaml', there are othe
 
 ![Project pipeline](./docs/data_science_pipes.png)
 
-The goal is to propose 3 approaches weither we do have the test dataset or not.
+The goal is to propose 3 approaches wether we do have the test dataset or not.
 The first one is basically in the case we have the train, test dataset and want to run the full pipeline. 
 The second one is in the case we have only the train dataset and want to assess the model quality. 
 And the last one is the case we want to solo build a model.
